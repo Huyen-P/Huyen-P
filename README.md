@@ -6,5 +6,5 @@
 
 ---
 ## Github StatS
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huyen-P&show_icons=true&theme=radical)  [![GitHub Streak](https://streak-stats.demolab.com/?user=Huyen-P&theme=radical)](https://git.io/streak-stats) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huyen-P&show_icons=true&theme=radical) [![GitHub Streak](https://streak-stats.demolab.com/?user=Huyen-P&theme=radical)](https://git.io/streak-stats) 
 
