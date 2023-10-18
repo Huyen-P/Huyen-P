@@ -5,4 +5,4 @@
 - 🔎 looking for collaboration in Business Data Analysis Projects.
 
 ---
-![HuyenPhan's GitHub stats](https://github-readme-stats.vercel.app/api?HuyenP=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Huyen-P=anuraghazra&show_icons=true&theme=radical)
