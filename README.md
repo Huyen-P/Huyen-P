@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hithere. I'm Huyen! 👋
 
-<!--
+- 🌱 a tech passionate learner in every single day.
+- 🌍 Connect with me on Linkedin [HuyenPhan](https://www.linkedin.com/in/huyenpln/) | Instagram [midilac](https://www.instagram.com/mi_di_lac/)
 **Huyen-P/Huyen-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
