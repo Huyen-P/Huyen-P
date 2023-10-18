@@ -6,8 +6,5 @@
 
 ---
 ## Github StatS
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huyen-P&show_icons=true&theme=radical)    ![image](https://user-images.githubusercontent.com/20955511/183303782-2231d9eb-9b65-4cf9-9e26-f4cfb773abf6.png)      |
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huyen-P&show_icons=true&theme=radical)  [![GitHub Streak](https://streak-stats.demolab.com/?user=Huyen-P&theme=radical)](https://git.io/streak-stats) 
 
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Huyen-P&size_weight=0.5&count_weight=0.5)
