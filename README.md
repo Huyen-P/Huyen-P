@@ -2,8 +2,7 @@
 
 - 🌱 a tech-passionate learner every single day in the Netherlands.
 - 🌍 connect with me on **[LinkedIn](https://www.linkedin.com/in/huyenpln/) | [Mailbox](mailto:huyenpln315@gmail.com) | [Instagram](https://www.instagram.com/mi_di_lac/)**
-- 🔎 looking for collaboration in Business Data Analysis Projects.
-
+- 🔎 looking for collaboration in Digital Solution Development.
 
 ## My Github Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Huyen-P&theme=radical)](https://git.io/streak-stats) 
