@@ -6,5 +6,5 @@
 
 
 ## My Github Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Huyen-P&theme=radical)](https://git.io/streak-stats) 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Huyen-P&theme=radical)](https://git.io/streak-stats)
 
